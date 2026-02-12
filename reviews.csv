@@ -1,6 +1,6 @@
 product_id,user_id,rating,comment
-101,501,5,Great product! Highly recommended.
-102,502,3,It's okay but could be better.
-103,503,1,Terrible experience. Do not buy.
-104,504,4,Good value for money.
-105,505,2,Disappointed with the quality.
+1,501,5,Great product! Highly recommended.
+2,502,3,It's okay but could be better.
+3,503,1,Terrible experience. Do not buy.
+4,504,4,Good value for money.
+5,505,2,Disappointed with the quality.
